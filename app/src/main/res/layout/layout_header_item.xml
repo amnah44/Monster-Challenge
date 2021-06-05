@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<de.hdodenhof.circleimageview.CircleImageView android:foregroundGravity="center"
+    android:id="@+id/players"
+    android:layout_height="@dimen/dimension"
+    android:layout_width="@dimen/dimension"
+    android:layout_marginTop="@dimen/margin_normal"
+    android:layout_marginEnd="@dimen/padding_small"
+    android:layout_marginStart="@dimen/padding_small"
+    android:scaleType="centerCrop"
+    app:civ_border_width="@dimen/border_image"
+    app:civ_border_color="@color/purple_500"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" />
